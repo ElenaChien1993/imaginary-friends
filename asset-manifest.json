@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/imaginary-friends/static/css/main.ff614ce5.chunk.css",
+    "main.js": "/imaginary-friends/static/js/main.f30acc36.chunk.js",
+    "main.js.map": "/imaginary-friends/static/js/main.f30acc36.chunk.js.map",
+    "runtime-main.js": "/imaginary-friends/static/js/runtime-main.5e690db6.js",
+    "runtime-main.js.map": "/imaginary-friends/static/js/runtime-main.5e690db6.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/imaginary-friends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js": "/imaginary-friends/static/js/2.1efe70f0.chunk.js",
+    "static/js/2.1efe70f0.chunk.js.map": "/imaginary-friends/static/js/2.1efe70f0.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/imaginary-friends/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/imaginary-friends/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/imaginary-friends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/imaginary-friends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.ff614ce5.chunk.css.map": "/imaginary-friends/static/css/main.ff614ce5.chunk.css.map",
+    "static/js/2.1efe70f0.chunk.js.LICENSE.txt": "/imaginary-friends/static/js/2.1efe70f0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/imaginary-friends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e690db6.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js",
+    "static/css/main.ff614ce5.chunk.css",
+    "static/js/main.f30acc36.chunk.js"
+  ]
+}
