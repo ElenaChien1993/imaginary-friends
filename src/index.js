@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';
+// import { robots } from './robots'
+// 因為該檔案非 export default 表示有多個值輸出，所以需用解構 {} 包住
 
 ReactDOM.render(
   <React.StrictMode>
